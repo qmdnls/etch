@@ -36,6 +36,11 @@ main#content img {
     margin-left: -3.8%;
 }
 
+main#content video {
+    max-width: 108%;
+    margin-left: -3.8%;
+}
+
 main#content figure {
     margin-left: -3.8%;
 }
